@@ -1,0 +1,46 @@
+https://www.tensorflow.org/tutorials/keras/text_classification - text classification with tf
+https://www.tensorflow.org/tensorboard/get_started - Get started with TensorBoard (visualizagion)
+https://cs.stanford.edu/people/karpathy/deepimagesent/ - image captioning (RNN)
+https://www.tensorflow.org/guide/keras/rnn#rnn_state_reuse - tensorflow RNN guide 
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/GRU - tensorflow GRU layer
+https://www.tensorflow.org/guide/keras/custom_layers_and_models - making new Layers and Models via subclassing
+https://www.tensorflow.org/tutorials/text/classify_text_with_bert - tensorflow BERT model 
+https://www.tensorflow.org/tutorials/text/solve_glue_tasks_using_bert_on_tpu - Solve GLUE tasks using BERT on TPU
+https://www.tensorflow.org/tutorials/text/nmt_with_attention - Neural machine translation with attention
+https://www.tensorflow.org/tutorials/text/transformer - Transformer model for language understanding
+https://www.tensorflow.org/tutorials/images/segmentation - image segmentation
+https://www.tensorflow.org/tutorials/text/image_captioning - image captioning
+
+
+https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2 - image captioning
+https://blog.paperspace.com/popular-deep-learning-architectures-resnet-inceptionv3-squeezenet/
+https://blog.floydhub.com/attention-mechanism/
+
+https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset.ipynb - exploratory data analysis
+https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4 - missing data 
+
+https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184
+https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752 - seed article
+MOKOloko data science 
+zero-short learning 
+dialog flow - google
+fb - chatbot integration  
+
+feature contribution
+catboost
+
+CV
+Image segmentation has many applications in medical imaging, self-driving cars and satellite imaging to name a few.
+
+#articles
+https://arxiv.org/pdf/2001.01037.pdf
+https://arxiv.org/abs/1502.03044
+https://arxiv.org/pdf/1502.03044.pdf
+https://www.kaggle.com/c/carvana-image-masking-challenge/overview - image segmentation challenge on kaggle
+https://github.com/tensorflow/models/tree/master/research/object_detection - object detaction api from tensorflow
+
+Teacher forcing is a strategy for training recurrent
+neural networks that uses model output from a prior
+time step as an input. ... We call this technique 
+teacher forcing. — A Learning Algorithm for
+Continually Running Fully Recurrent Neural Networks, 1989.
